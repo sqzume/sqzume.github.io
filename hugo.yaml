@@ -3,6 +3,10 @@ languageCode: "ja"
 title: "さずめがいろいろ書くところ"
 theme: "PaperMod"
 
+services:
+  googleAnalytics:
+    ID: G-CHBXP2HBWG
+
 params:
     ShowReadingTime: true
     ShowBreadCrumbs: true
