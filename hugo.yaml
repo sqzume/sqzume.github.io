@@ -1,0 +1,28 @@
+baseURL: "https://sqzume.net/"
+languageCode: "ja"
+title: "さずめがいろいろ書くところ"
+theme: "PaperMod"
+
+params:
+    ShowReadingTime: true
+    ShowBreadCrumbs: true
+    ShowPostNavLinks: true
+
+    homeInfoParams:
+        Title: さずめ
+        Content: ゲームとプログラミングが好き
+
+    socialIcons: # optional
+        - name: "Bluesky"
+          url: "https://bsky.app/profile/sqzume.net"
+        - name: "GitHub"
+          url: "https://github.com/sqzume"
+
+    label:
+        text: "Home"
+
+menu:
+  main:
+    - identifier: tags
+      name: Tags
+      url: /tags/
