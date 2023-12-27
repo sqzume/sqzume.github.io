@@ -30,3 +30,6 @@ menu:
     - identifier: tags
       name: Tags
       url: /tags/
+    - identifier: issues
+      name: お問い合わせ
+      url: https://github.com/sqzume/sqzume.github.io/issues
