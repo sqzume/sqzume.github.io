@@ -5,6 +5,6 @@ Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-cs
 */
 body
 {
-font-family: 'Noto Sans JP', sans-serif;
-font-size: 18px;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 18px;
 }
